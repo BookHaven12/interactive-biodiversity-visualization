@@ -56,6 +56,7 @@ function buildCharts(sample) {
 
     let bubbleLayout = {
       title: "Bacteria Cultures Per Sample",
+      xaxis: { title: "OTU ID"}
     }
 
     // Render the Bubble Chart
@@ -77,7 +78,8 @@ function buildCharts(sample) {
     let barData = [barTrace]
 
     let barLayout = {
-      title: "Top 10 Bacteria Cultures Found"
+      title: "Top 10 Bacteria Cultures Found",
+      xaxis: { title: "Number of Bacteria"}
     }
 
     // Render the Bar Chart
