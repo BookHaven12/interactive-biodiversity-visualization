@@ -21,3 +21,6 @@ Additionally, I used D3 to loop through metadata and display demographic informa
 * JSON Data Handling
 
 * Responsive Dashboard Design
+
+
+I completed this assignment with help and guidance from my tutor, Angel Milla, who supported me throughout the development process.
